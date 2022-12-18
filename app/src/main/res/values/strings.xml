@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageSearch_App</string>
+    <string name="search_image">이미지를 검색해보세요.</string>
+</resources>
